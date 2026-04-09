@@ -24,6 +24,7 @@ This project analyzes 15,000+ real estate listings across Maharashtra to uncover
 
 ## 📊 Dashboard Preview
 ![Page 1](Market overview and pricing.png)
+
 ![Page 2](Investment and insights.png)
 
 ## 🚀 Business Impact
