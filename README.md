@@ -1,7 +1,7 @@
 # 🏠 Real Estate Market Intelligence Analysis – Maharashtra
 
 ## 📊 Project Overview
-This project analyzes 10,000+ real estate listings across Maharashtra to uncover pricing trends, demand patterns, and investment opportunities.
+This project analyzes 15,000+ real estate listings across Maharashtra to uncover pricing trends, demand patterns, and investment opportunities.
 
 ## 🎯 Objectives
 - Identify city-wise pricing and supply trends
