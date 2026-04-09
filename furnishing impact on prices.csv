@@ -1,0 +1,47 @@
+city,furnishing,status,total_listings,avg_price,avg_price_sqft
+Aurangabad,Unfurnished,"Under Construction",37,40.53,121431.35
+Ratnagiri,Unfurnished,"Under Construction",23,30.79,117003.22
+Thane,Semi-Furnished,"Ready to Move",37,18.91,102150.35
+Mumbai,Unfurnished,"Under Construction",731,26.06,55485.54
+Mumbai,Furnished,"Ready to move",479,13.52,38740.29
+Nanded,Furnished,"Ready To Move",25,32.92,37714.12
+Solapur,Furnished,"Ready to Move",148,40.98,33781.50
+Aurangabad,Furnished,"Ready to Move",865,36.04,20298.88
+Thane,Furnished,"Ready to Move",1099,31.74,14576.88
+Pune,Unfurnished,"Under Construction",353,26.5,14044.49
+Bhiwandi,Unfurnished,"Under Construction",27,43.22,13061.74
+Thane,Unfurnished,"Ready to Move",248,25.59,12134.23
+Jalgaon,Furnished,"Ready to Move",123,39.45,11478.15
+Nashik,Furnished,"Ready to Move",705,36.02,11466.95
+Kolhapur,Unfurnished,"Under Construction",285,40.39,11182.56
+Ratnagiri,Furnished,"Ready To Move",313,26.71,9969.56
+Pune,Furnished,"Ready To Move",5399,26.37,8130.04
+Bhiwandi,Furnished,"Ready To Move",279,42.3,7960.35
+Nashik,Unfurnished,"Ready to Move",601,41.69,7856.40
+Chandrapur,Furnished,"Ready To Move",122,30.5,7262.34
+Nashik,Unfurnished,"Under Construction",72,35.49,7043.63
+Akola,Unfurnished,"Under Construction",53,38.57,6569.13
+Aurangabad,Semi-Furnished,"Ready to Move",1,38,6333.00
+Latur,Furnished,"Ready to Move",25,45.31,6067.40
+Nanded,Unfurnished,"Under Construction",20,42.3,6002.95
+Latur,Unfurnished,"Under Construction",40,37.75,5521.20
+Sangli,Furnished,"Ready to Move",103,37.34,5432.45
+Kolhapur,Furnished,"Ready to Move",115,39.13,5250.94
+Aurangabad,Unfurnished,"Ready to Move",1,31,5167.00
+Nagpur,Furnished,"Ready To Move",3960,37.46,4970.65
+Akola,Furnished,"Ready to Move",46,43.84,4353.91
+Amravati,Furnished,"Ready To Move",299,37.32,4304.97
+Nagpur,Unfurnished,"Under Construction",1585,35.76,4283.08
+Dhule,Unfurnished,"Ready to Move",37,46.19,4184.92
+Amravati,Unfurnished,"Under Construction",30,40.85,3964.47
+Ahmednagar,Furnished,"Ready To Move",267,29.96,3962.59
+Dhule,Furnished,"Ready to Move",2,62,3871.50
+Dhule,Unfurnished,"Under Construction",1,80,3636.00
+Parbhani,Furnished,"Ready To Move",18,28.83,3507.72
+Chandrapur,Unfurnished,"Under Construction",25,31.99,2781.84
+Ahmednagar,Unfurnished,"Under Construction",11,40.72,2486.18
+Sangli,Unfurnished,"Under Construction",40,31.87,2425.45
+Jalgaon,Semi-Furnished,"Ready to Move",38,32.67,2411.05
+Dhule,Semi-Furnished,"Ready to Move",29,29.65,2153.38
+Parbhani,Unfurnished,"Under Construction",1,35,1944.00
+Solapur,Unfurnished,"Under Construction",113,21.38,1402.00
